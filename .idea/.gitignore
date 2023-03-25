@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/scr/main/java/org.example/Impl1.java
+/scr/main/java/org.example/Impl2.java
+/scr/main/java/org.example/Inter1.java
