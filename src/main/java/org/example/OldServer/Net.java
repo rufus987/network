@@ -5,6 +5,7 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.util.Scanner;
 
 public class Net {
     public static void main(String[] args) {
@@ -14,6 +15,22 @@ public class Net {
             System.out.println("Подключился клиент: " + client.getInetAddress());
             DataInputStream in = new DataInputStream(client.getInputStream());
             DataOutputStream out = new DataOutputStream(client.getOutputStream());
+            Thread thread = new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    Scanner scanner = new Scanner(System.in);
+                    while (true) {
+                        String s = scanner.nextLine();
+                        try {
+                            out.writeUTF(s);
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
+                    }
+                }
+            });
+            thread.setDaemon(true);
+            thread.start();
             while (true){
                 String s = in.readUTF();
                 if(s.equals("/end")){
@@ -24,7 +41,6 @@ public class Net {
                     break;
                 }
                 System.out.println("Клиент прислал: " + s);
-                out.writeUTF("Эхо " + s + "\n");
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
