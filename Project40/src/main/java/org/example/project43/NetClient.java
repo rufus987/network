@@ -1,4 +1,4 @@
-package org.example.project42.NetClient;
+package org.example.project43;
 
 import java.awt.Color;
 import java.awt.Insets;
@@ -24,12 +24,12 @@ public class NetClient extends JFrame implements KeyListener {
 	PrintWriter out;
 
 	NetClient() {
-		// ������� ����
+
 		super("Simple Chat client");
 		setSize(400, 500);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 
-		// ��������� �� ���� ��������� ����
+
 		textArea = new JTextArea();
 		textArea.setBackground(Color.BLACK);
 		textArea.setForeground(Color.WHITE);
@@ -38,7 +38,7 @@ public class NetClient extends JFrame implements KeyListener {
 		scrollPane = new JScrollPane(textArea);
 		this.add(scrollPane);
 
-		// �������������� � �������
+
 		connect();
 
 	}
@@ -84,7 +84,7 @@ public class NetClient extends JFrame implements KeyListener {
 
 	@Override
 	public void keyTyped(KeyEvent arg0) {
-		// ���������� ������������ ������ � ���� � �� �����
+
 		out.print(arg0.getKeyChar());
 		out.flush();
 		
