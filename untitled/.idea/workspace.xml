@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6adcb6f-c94c-4049-98db-bf9ef6f84549" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Project20/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/Stream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/error/Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/error/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/error/Transcoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/error2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/error2/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/error2/exceptions/NotEnoughMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/org/example/inout/InputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/org/example/inout/OutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/src/main/java/org/example/inout/OutputWritter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project20/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project31/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project31/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project31/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project32/Crate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project32/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project32/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project32/Monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project32/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project33/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project33/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project33/Shippable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project33/ShippableRaw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project33/ShippableRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project34/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project34/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project34/DynamicStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project34/DynamicStruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project34/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project35/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project35/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project35/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project36/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project36/Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project30/src/main/java/org/example/project36/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project40/src/main/java/org/example/project41/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project40/src/main/java/org/example/project41/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project40/src/main/java/org/example/project42/NetClient/NetClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project40/src/main/java/org/example/project42/NetClient/NetClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project40/src/main/java/org/example/project42/NetClient/NetClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project40/src/main/java/org/example/project42/Server/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project40/src/main/java/org/example/project43/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project40/src/main/java/org/example/project43/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project40/src/main/java/org/example/project43/NetClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../network/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetClient.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QE21SvYTcYSVR3cKwkaTHKBkyd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/evgen/IdeaProjects/untitled/src",
+    "onboarding.tips.debug.path": "/home/evgen/IdeaProjects/untitled/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6adcb6f-c94c-4049-98db-bf9ef6f84549" name="Changes" comment="" />
+      <created>1684904208365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684904208365</updated>
+    </task>
+    <servers />
+  </component>
+</project>
