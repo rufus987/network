@@ -55,8 +55,7 @@ public class NetClient extends JFrame implements KeyListener {
 			e.printStackTrace();
 		}
 		new Thread() {
-			// � ��������� ������
-			// ��������� ������� �� �������
+			
 			public void run() {
 				while (true) {
 					try {
